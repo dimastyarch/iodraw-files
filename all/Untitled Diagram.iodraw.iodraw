@@ -580,10 +580,11 @@
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-37" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a_CtyPuXV-ZLcEQu5HtN-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="900" as="sourcePoint" />
-            <mxPoint x="60" y="350" as="targetPoint" />
+            <mxPoint x="360" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="790" />
               <mxPoint x="560" y="1031" />
+              <mxPoint x="60" y="1031" />
             </Array>
           </mxGeometry>
         </mxCell>
