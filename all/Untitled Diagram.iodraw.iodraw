@@ -298,7 +298,7 @@
         <mxCell id="6r8rTVwPjbXqbo_nhGdv-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6r8rTVwPjbXqbo_nhGdv-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="330" as="sourcePoint" />
-            <mxPoint x="370" y="240" as="targetPoint" />
+            <mxPoint x="160" y="350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="250" y="300" />
               <mxPoint x="250" y="240" />
@@ -351,8 +351,8 @@
         <mxCell id="6r8rTVwPjbXqbo_nhGdv-26" value="так" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6r8rTVwPjbXqbo_nhGdv-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="6r8rTVwPjbXqbo_nhGdv-27" value="ні" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
