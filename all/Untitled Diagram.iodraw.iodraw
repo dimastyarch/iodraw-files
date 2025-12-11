@@ -120,8 +120,11 @@
         <mxCell id="ok-WTpnHmN24tzZMRqAG-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ok-WTpnHmN24tzZMRqAG-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="800" as="sourcePoint" />
-            <mxPoint x="360" y="750" as="targetPoint" />
+            <mxPoint x="360" y="760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ok-WTpnHmN24tzZMRqAG-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="730" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
