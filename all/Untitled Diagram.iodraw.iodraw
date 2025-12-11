@@ -179,8 +179,11 @@
             <mxPoint x="115" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ok-WTpnHmN24tzZMRqAG-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ok-WTpnHmN24tzZMRqAG-32" value="S = S + Ak * P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ok-WTpnHmN24tzZMRqAG-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="55" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
