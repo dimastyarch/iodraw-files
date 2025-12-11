@@ -493,7 +493,7 @@
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-18" value="вивести x, N/A, N/A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="490" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-20" value="&amp;nbsp;y_exact = ln(x)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a_CtyPuXV-ZLcEQu5HtN-18">
@@ -502,8 +502,14 @@
             <mxPoint x="360" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="520" />
-              <mxPoint x="160" y="320" />
+              <mxPoint x="160" y="290" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a_CtyPuXV-ZLcEQu5HtN-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="630" as="sourcePoint" />
+            <mxPoint x="610" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
