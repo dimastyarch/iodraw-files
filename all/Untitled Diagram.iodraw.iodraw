@@ -460,8 +460,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-12" value="так" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
