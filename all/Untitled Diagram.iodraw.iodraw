@@ -213,7 +213,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ok-WTpnHmN24tzZMRqAG-39" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="1250" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ok-WTpnHmN24tzZMRqAG-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ok-WTpnHmN24tzZMRqAG-36" target="ok-WTpnHmN24tzZMRqAG-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1270" as="sourcePoint" />
+            <mxPoint x="280" y="1220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
