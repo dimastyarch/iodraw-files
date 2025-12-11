@@ -589,12 +589,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-38" value="ні" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="620" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a_CtyPuXV-ZLcEQu5HtN-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="810" as="sourcePoint" />
-            <mxPoint x="650" y="760" as="targetPoint" />
+            <mxPoint x="610" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
