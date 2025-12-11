@@ -534,7 +534,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-27" value="S = 0, n = 0&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="665" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-28" value="ні" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="590" width="60" height="30" as="geometry" />
