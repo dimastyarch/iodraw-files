@@ -491,10 +491,16 @@
           <mxGeometry x="380" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-18" value="вивести x, N/A, N/A" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="490" width="130" height="60" as="geometry" />
+          <mxGeometry x="305" y="490" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="580" as="sourcePoint" />
+            <mxPoint x="260" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
