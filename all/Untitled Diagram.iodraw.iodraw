@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ok-WTpnHmN24tzZMRqAG-16" value="P = 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ok-WTpnHmN24tzZMRqAG-17" value="m = 1 .. k+n (цикл)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
