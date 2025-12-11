@@ -253,7 +253,7 @@
         <mxCell id="6r8rTVwPjbXqbo_nhGdv-8" value="&amp;nbsp;i = 1 .. 6 (цикл)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6r8rTVwPjbXqbo_nhGdv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6r8rTVwPjbXqbo_nhGdv-9" value="term = x + x^(i-1)&amp;nbsp;&lt;div&gt;P = P * term&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6r8rTVwPjbXqbo_nhGdv-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
