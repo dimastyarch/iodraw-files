@@ -410,10 +410,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-1" value="Початок" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="310" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_CtyPuXV-ZLcEQu5HtN-2" value="введення x_start, x_end, dx" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a_CtyPuXV-ZLcEQu5HtN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
