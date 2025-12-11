@@ -334,9 +334,15 @@
             <mxPoint x="340" y="610" as="sourcePoint" />
             <mxPoint x="520" y="950" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="730" />
-              <mxPoint x="350" y="950" />
+              <mxPoint x="360" y="730" />
+              <mxPoint x="360" y="950" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6r8rTVwPjbXqbo_nhGdv-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6r8rTVwPjbXqbo_nhGdv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="390" as="sourcePoint" />
+            <mxPoint x="670" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
