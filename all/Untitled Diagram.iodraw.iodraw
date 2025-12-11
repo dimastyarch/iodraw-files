@@ -182,13 +182,19 @@
         <mxCell id="ok-WTpnHmN24tzZMRqAG-32" value="S = S + Ak * P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ok-WTpnHmN24tzZMRqAG-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ok-WTpnHmN24tzZMRqAG-33" value="k = k + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ok-WTpnHmN24tzZMRqAG-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ok-WTpnHmN24tzZMRqAG-32" target="ok-WTpnHmN24tzZMRqAG-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="1070" as="sourcePoint" />
             <mxPoint x="270" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ok-WTpnHmN24tzZMRqAG-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1080" as="sourcePoint" />
+            <mxPoint x="260" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
